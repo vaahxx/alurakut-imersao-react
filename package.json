@@ -1,6 +1,7 @@
 {
   "private": true,
   "scripts": {
+    "predev": "rm -rf .next",
     "dev": "next",
     "build": "next build",
     "start": "next start"
